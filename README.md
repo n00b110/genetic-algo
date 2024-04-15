@@ -1,6 +1,6 @@
 ** This is basically my report for this project **
 
-# Genetic Algorithm for Optimizing SLA Scheduling
+# Genetic Algorithm Assignment 
 
 
 ## Introduction
